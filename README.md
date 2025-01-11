@@ -108,9 +108,5 @@ Contributions are welcome! If you have suggestions for improving this project or
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
----
 
-Let me know if you'd like me to tailor any part of this README further or help create a `requirements.txt` file for your dependencies!
