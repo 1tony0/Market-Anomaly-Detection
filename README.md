@@ -21,7 +21,7 @@ This repository contains a project focused on analyzing and cleaning financial m
 
 ---
 
-## Dataset
+## Dataset 
 The dataset used in this project includes financial indicators such as:
 - **XAU BGNL Currency**: Historical gold rates.
 - **DXY Currency**: US dollar index.
