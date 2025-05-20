@@ -10,7 +10,7 @@ This repository contains a project focused on analyzing and cleaning financial m
 - Debugging process walkthrough for common errors like `KeyError`.
 - Insights and lessons learned during the process.
 
-## Table of Contents
+## Table of Contents 
 1. [Dataset](#dataset)
 2. [Getting Started](#getting-started)
 3. [Process](#process)
