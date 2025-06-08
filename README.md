@@ -108,5 +108,5 @@ Contributions are welcome! If you have suggestions for improving this project or
 
 ---
 
-made by neo
+neo
 
