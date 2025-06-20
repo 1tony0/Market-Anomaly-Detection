@@ -9,7 +9,7 @@ This repository contains a project focused on analyzing and cleaning financial m
 - Creation of a custom target column (`Y`) based on specific business logic.
 - Debugging process walkthrough for common errors like `KeyError`.
 - Insights and lessons learned during the process.
-
+ 
 ## Table of Contents 
 1. [Dataset](#dataset)
 2. [Getting Started](#getting-started)
