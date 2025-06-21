@@ -1,5 +1,5 @@
  # Financial Data Analysis and Target Column Creation  
- 
+  
 ## Overview 
 This repository contains a project focused on analyzing and cleaning financial market data. The dataset includes various financial indicators, and the goal is to preprocess the data and derive a target variable (`Y`) for further analysis or modeling.
 
